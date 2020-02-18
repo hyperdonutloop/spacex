@@ -5,15 +5,18 @@
   overflow: hidden auto;
   padding-left: 20px;
   padding-right: 20px;
+  background-color: #1f2023;
 }
 
 .LaunchProfile__status {
   margin-top: 40px;
+  color: #FFFFFF;
 }
 
 .LaunchProfile__title {
   margin-top: 0;
   margin-bottom: 4px;
+  color: #FFFFFF;
 }
 
 .LaunchProfile__success {
@@ -34,4 +37,8 @@
 
 .LaunchProfile__image {
   width: 100%;
+}
+
+.LaunchProfile_description {
+  color: #FFFFFF;
 }
